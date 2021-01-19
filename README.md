@@ -1,3 +1,3 @@
 # Understanding
 
-Basically trying to understand github better.
+Basically trying to understand github better!
